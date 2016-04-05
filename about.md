@@ -8,7 +8,7 @@ Welcome to my test website!
 
 ### More Information
 
-Here are some words. This is the about page. I'll put some stuff here eventually.
+Here are some words. This is the about page. I'll put some stuff here eventually. Maybe.
 
 ### Contact me
 
