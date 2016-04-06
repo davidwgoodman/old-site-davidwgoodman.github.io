@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my test website!
+I'm Dave Goodman. I write about writing, the outdoors, occasionally photography and the odd computer game. Sometimes politics, but I'm trying to do less of that.
 
-### More Information
+I'm Happy Dave on Flickr, Metafilter and a bunch of forums. If you find something online written under that name, chances are that I wrote it.
 
-Here are some words. This is the about page. I'll put some stuff here eventually. Maybe.
+I try to get out in the hills as often as I can, which isn't as often as I'd like. I spend too much money on camping gear.
+
+
+### Where?
+
+I live and work in Edinburgh, Scotland. It's a beautiful place. You should totally visit.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can email me at david.w.goodman[at]gmail.com.
