@@ -13,4 +13,5 @@ Here's the stuff inside the More Inside link.
 
 Here is [a link](http://www.google.com).
 
-Test complete.
+Testing adding something by remote commit.
+
