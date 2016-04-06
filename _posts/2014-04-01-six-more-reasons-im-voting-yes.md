@@ -1,0 +1,94 @@
+---
+layout: post
+title: Six (more) reasons why I’m voting Yes
+---
+
+Posting [my last blog post](/Five-reasons-im-voting-yes-in-september/) on the Yes campaign was interesting. I found that that it offered me the chance to overcome two things that I had been struggling with.
+
+The first was the ability to talk at length about why I’m going to vote Yes, rather than the rather ineffectual and emotionally draining business of fighting on Facebook and Twitter about it in short bursts. Frankly, that offers little more than the opportunity to trade soundbites. There’s nothing substantive to it and you end up feeling defensive and angry with people who are supposed to be your friends. This is a shitty way of interacting.
+
+The second is that, ironically, it gave me the required distance to lay out my reasons (relatively) clearly and concisely. In the pub or round for dinner with friends, it’s very easy to mistake disagreement for dismissal and end up in a shouting match. I’ve always been pretty easy to wind up about political matters (ask some of the dear friends of mine who had to deal with me when Labour were trying to push through ID cards and ban protest around parliament), so I don’t tend to fare terribly well in face to face discussion, especially after a pint or two.
+
+I was delighted, in fact, when a good friend of mine who I had not seen in months (aside from the occasional comment whenever I posted about independence on Facebook) called me up about an hour after I posted last time, to let me know that what I’d written about not wanting to lose friends over this whole thing had struck him deeply. We’ve since been for a pint and, with the discussion set above the level of simply trading our respective campaign soundbites, had a rare old time. More discussion is a good thing, but for me taking the time to write things out at a bit more length has had a great effect.
+
+So, in the spirit of continuing that positive interaction, here’s six more reasons I’m voting Yes in September. Fair warning - this is a loooong post with a lot of links and videos and the like, so settle in.
+
+### Reason 1 - I like my politicians accountable
+
+We’ve got a serious democratic deficit in the United Kingdom. We’ve got two major political parties that are both trading off what they were (or at least said they were) twenty years ago, while you could barely fit a cigarette paper between their actual policies. The [Overton Window](https://en.wikipedia.org/wiki/Overton_window) of the UK as a whole is shifting steadily rightward, even as the [majority of our citizens favour broadly egalitarian, redistributive policies](https://www.jrf.org.uk/report/public-attitudes-economic-inequality) (while simultaneously being [grievously under-informed](https://www.youtube.com/watch?v=aOJ93tAbPP0) about the true scale of inequality in the UK). Worst of all, we have elections that are settled in England, most of all in the South East, with a [political class that favours the South East](http://www.buzzfeed.com/jimwaterson/britain-is-run-by-mps-from-the-south-east-of-england) to the exclusion of the rest of the country to a near-pathological degree.
+
+By contrast, an independent Scotland would have politicians within smacking distance, legislating on Scottish priorities. If we didn’t like what the elected government were doing, we could vote them out, in stark contrast to Scotland’s position within the United Kingdom, where Tory governments rule without giving a fig what the people of Scotland want and Labour governments largely thank us solely for giving them a slightly bigger landslide margin when the Tories overreach themselves.
+
+One of my former colleagues commented that he felt independence wouldn’t really change anything, that we would simply be swapping one set of empty suits for another. That may be true of the current crop of politicians in Scotland - a large number of them are creatures of the national parties, uninspiring mouthpieces for the same old post-imperial priorities. But if you look carefully, there are signs of a new generation of Scottish politicians emerging, mostly at the ground-floor, campaign level. Freed of the need to always put the interests of the UK (read London, increasingly) ahead of local constituents, something really exciting could happen. Which leads me on to…
+
+### Reason 2 - I like my vote to have an actual impact
+
+There’s a common canard among the left that Scotland is a vast, tartan counterweight to the dastardly Home Counties, somehow stopping the UK as a whole from slipping wholesale into a neoliberal nightmare.
+
+The reality is actually quite depressing - the margin Scottish Labour MPs give to the UK party is one that they don’t even need - [only two UK election outcomes since 1945 would have come out different without Scottish Labour MPs](http://wingsoverscotland.com/why-labour-doesnt-need-scotland/), one of them by ONE MP.
+
+So we’re buggered both ways - when the Tories are in power, they can safely ignore Scotland, because there basically is no Scottish Tory vote of any magnitude. When Labour is campaigning, we’re little more than a safety margin. Labour would find it harder to win without Scottish MPs, but not impossible.
+
+By contrast, politics in an independent Scotland would be something new - perhaps a chance for a third party to get properly established, or for Scottish conservatism to be something more than a thinly veiled front for a few hundred Highland estate owners. It could even redeem the Lib Dems from their complete abandonment of any and all of their election pledges that weren’t carbon copies of existing Tory policies. In short, it would be exciting! Our electoral landscape could be vibrant, multi-party and looking towards the future instead of being mired in a century of national decline and figuring out who to blame for it.
+
+And if you voted, you’d stand a good chance of that vote actually making a difference - one vote goes a lot further among five and a half million people than it does among ten times that number. Gobsmacking, I know. And exciting.
+
+### Reason 3 - The pound is a sideshow
+
+I got a piece of fearmongering literature through the door this afternoon from Better Together, a single mother apparently worried about what it could mean ‘to lose the pound’.
+
+This is hogwash. Firstly, the pound is as much Scotland’s as it is England’s. It may be issued and backed by the Bank of England, but despite the name, the Bank of England is the reserve bank of the whole UK, not just England. If we wanted to continue to use the pound, which is a global reserve currency, we could do precisely that. Because it’s ours, as part of the UK. If we become a successor state to the UK, we would have as much right to the pound as a currency as we do to the Scottish chunks of the Royal Mail, the Network Rail network, the military and everything else sitting in Scotland. So, don’t believe them when they tell you currency is some kind of special case. It’s an asset like any other.
+
+Similarly, it’s not actually that big a deal. Sterlingisation, i.e. operating our own currency that has parity with the pound, is a perfectly legitimate option. Just like [Gibraltar](https://en.wikipedia.org/wiki/Gibraltar_pound), the [Isle of Man](https://en.wikipedia.org/wiki/Manx_pound), the [Falkland Islands](https://en.wikipedia.org/wiki/Falkland_Islands_pound) and [St Helena](https://en.wikipedia.org/wiki/Saint_Helena_pound) currently do.
+
+There’s also the long-term option of starting with a linked currency and eventually breaking the link with sterling. The Irish did this. After the establishment of the Republic of Ireland, the [Irish pound](https://en.wikipedia.org/wiki/Irish_pound) (or *punt* in Irish Gaelic) was re-established as a separate but linked currency (i.e. interchangeable with the British pound) in 1938, then decimalised in 1971. In 1979, the link with sterling was broken when Ireland joined the European Exchange Rate Mechanism and the UK did not, then in 2002 the currency was replaced by the Euro. Ireland has had its share of woes in the meantime, but those are due to joining a massive, multi-state currency union with no real plan for managing disparities between states, rather than the process of operating a pound parity currency.
+
+Basically, the Better Together people are playing heavily on tendency of most people to treat money as though it had some magical, mysterious inherent power, rather than it being a system of vouchers to represent the velocity of value through an economic system. My personal preference is for sterlingisation followed by an independent currency, but the waters are being deliberately muddied and fears are being played up because that’s easier than actually having a discussion. It’s a sideshow that does not have half the importance it’s being given.
+
+### Reason 4 - Oil is a bridge, not a destination
+
+It’s our oil, it’s their oil, it’s running out, we’re just getting started, it’ll be $150 a barrel, it’ll be $80 a barrel. On and on it rages, with both sides quoting this study or that study. It’s a toxic brew of misinformation, fearmongering and selective bias (from both sides) that makes things well, as clear as a barrel of oil.
+
+Here’s how I see it. Yes, oil is a big export and it would likely remain one in an independent Scotland. If I could turn back the clock, I’d have done what the Norwegians did in the 1950s, establishing a sovereign wealth fund and effectively banning themselves from splurging oil wealth to win elections. But we didn’t do that. Some estimates have it that North Sea oil has put over £40bn into UK coffers. That’s a lot of cash, much of it used to fund the systematic dismantlement of UK heavy industry and the privatisation of our utilities and transport networks. In a parallel universe where Scotland was the sole beneficiary of that money, we would have a lot of roads, schools, hospitals and university graduates for that kind of moolah, or a massive great Norwegian-style trust fund.
+
+But that’s not the universe we live in. So we need to look at oil and realise that it’s *a means to an end*. It might run out in twenty years or still be a substantial part of our economy in a hundred years. We don’t know, basically. Opinions and cherry-picked figures from both sides conflict, and the oil price and future of fossil fuels in general make it a mug’s game to come up with a definitive answer.
+
+But we can choose to use that money, in the future, to lay foundations for our future as a country. We can invest in new industries, train and equip our kids to deal with whatever the hell the global economy is going to do next and let our people work from a basis of confidence and security. Which brings me on to my favourite point - what does that security mean?
+
+### Reason 5 - We have to reforge the social contract
+
+When [I posted my first post](/Five-reasons-im-voting-yes-in-september), some readers focused on an offhand reference I made to being 'a boring Northern European country’. Some applauded the notion while others were appalled. I was particularly amused by one friend’s assertion that we needed to 'aim higher’, asking 'I mean, have you been to Belgium?’.
+
+Aspersions on the relative delights of the Belgians aside, I want to make clear what I meant by that. The [article I referenced](https://www.opendemocracy.net/ourkingdom/adam-ramsay/scotland-isnt-different-its-britain-thats-bizarre) did a good job of laying out the essentials of what I think makes for a good, social democratic state in which to live, but for me, there’s a clearer, shorter way to put it across.
+
+Essentially, I would like to live in a country where the broad essentials of life are agreed upon and a minimum standard is paid for jointly by all, freeing individuals to learn, earn and grow. We understood this explicitly as a society at the end of the Second World War. Six years of fighting for our lives against a genuine totalitarian threat taught us that if we could organise ourselves to build thousands of Lancaster bombers, we could do the same for schools, hospitals and power utilities.
+
+But we’ve forgotten those lessons. In the UK we have a well-worn merry-go-round of politics when it comes to our public services. Tories chronically under-fund the few public services that remain truly public, endlessly reorganising them in a fruitless and grinding attempt to rectify the underfunding we voted for. We vote in Labour in a fit of remorse and dump cash on the twitching corpses of our public services, then the Tories get back in, decry the waste of public money and privatise them, [grubbily selling them off for a fraction of their value to benefit party donors](https://www.opendemocracy.net/ournhs/jos-bell/tory-links-of-health-agencies-exposed-as-hunt-lines-up-next-nhs-selloff-in-england).
+
+We can do better than this. We have to do better than this. When I was young, the 'rules’ of the [post-war consensus](https://en.wikipedia.org/wiki/Post-war_consensus), such as we understood them, were clear. Work hard, save money, buy a house, have some kids, go on holiday once or twice a year. A fair day’s work would (mostly) result in a fair day’s pay and we all had a stake in the country we lived in, or were supposed to. But that bargain, that underlying fabric, is being torn. Living costs are skyrocketing and housing costs are so far beyond reasonable that it’s becoming something of a sick joke. Indeed, if food costs (which themselves have risen 12.6% in the last six years) had risen as fast and as far as housing costs have, a chicken would cost over £50.
+
+I could go on, but my point is that these conditions are not a given - they are the result of **deliberate policy choices**, made over decades and which Scottish MPs did not largely vote for. We are not living in the country that our elected representatives were sent to Westminster to create. If we were, I believe it would be a fundamentally better place. And a freer place too - it is the micromanagement of our lives, the endless assessment and procurement and payment of profit-led services for every facet of our existence that is eroding our civil and personal lives. Think how many millions of hours have been wasted in the United States over researching, paying for and then arguing to receive medical care. It is a colossal waste of time and energy. I can tell you the number of times I have worried about medical care in my life. Three times - every time I visited the United States. If I’m sick, I go to the doctor. There is no calculation required and I am happier and healthier for it.
+
+We are supposed to be a rich country, but we are at risk of destroying the foundations that will allow us to keep and grow that wealth in the future, all because some people can’t admit that free markets can create misery just as well as they create shareholder value.
+
+### Reason 6 - Think of the culture!
+
+In this post, in response to a friend who pointed out my first post was largely a series of things a Yes vote would not be, I’ve tried to point out a few things we could be. I think one of the most exciting possibilities of a referendum Yes vote would be the effect it might have on our perception of ourselves and the galvanising results on our expressions of that selfhood in music, art, literature and film. For a very, very long time, most expressions of Scottish identity have been as a reaction to our position in the world, or a reflection of what others think of us. Whether defensive, defiantly exuberant, wildy negative or simply self-hating, they always occur in the context of Scotland within the UK, for good or ill.
+
+I can almost hear the collective inhalation of breath as Scottish artists, writers, filmmakers and musicians anticipate that explosion of expression. Hopefully it would be a little more interesting than the interminable assault of 'What does it mean to be British’ documentaries and Great British Bake Off knockoffs on the BBC. I’ve always wondered if the French or the Germans or the Danish constantly question who they are quite so much.
+
+And I think there’s a real point to be made there - why do we spend so much time, within the UK, asking what it means to be British? Could it be because it’s a hybrid identity, forged in the crucible of a now-dead empire? What does it mean, beyond Wimbledon, tea and red telephone boxes?
+
+Would we find out more and better things about ourselves in our art if we were free to govern ourselves? And not just us - perhaps the English could think meaningfully about their own identity as a country, beyond wrapping a St George’s Cross around themselves at the World Cup. I think we would all benefit. A bevy of Scandinavian writers agree - they compare the proposed independence of Scotland to [the flowering of an independent Norwegian culture](http://www.heraldscotland.com/news/13151892.Scandinavian_writers_pen_love_letter_to_independent_Scotland/) after their union with Sweden was dissolved. Sounds bloody fun and interesting to me.
+
+### The status quo versus the 'I just don’t know’
+
+Better Together would have you believe that this is an argument about settled certainties versus wild pipe dreams. But it’s really not. The question here is about whether Scotland within the United Kingdom is the best we can do. 'Stay and fight your corner’ I’ve heard some say, as though we hadn’t been doing that for fifty years and been profoundly ignored, or worse, [actively persecuted](http://www.bbc.co.uk/scotland/history/modern_scotland/the_poll_tax/).
+
+But even the status quo is a myth. The UK is bubbling its way into [a second massive housing bubble](http://www.theguardian.com/commentisfree/2014/feb/24/recovery-bubble-crash-uk-us-investors), after more than six solid years of bumping along the bottom economically. The global order, such as it is, may be about to fundamentally reconfigure itself with Russia’s attempts to reassert control over its sphere of influence in Eastern and Central Europe. Many would argue that this is the perfect time for us to retreat into the loving embrace of the Union, nice and safe.
+
+But I see it more like a night out with a old colleague who you don’t actually like that much anymore (on the state level, I hasten to add - I have a great deal of time for individual English folk). It’s tense in the bar that is the world, and our old colleague is reeling around drunkenly, high on their own nostalgia, looking for a fight, for someone to tell them they’re still the big man.
+
+Me, I’d rather go to a different pub. A place where the beer is affordable, the conversation free and open and the atmosphere is a whole lot less angry.
+
+Fancy a pint in that notional pub of nations? Vote Yes.
