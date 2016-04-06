@@ -1,3 +1,8 @@
+---
+layout: post
+title: Giving-up-the-ghost
+---
+
 I’ve migrated my blog back to Tumblr, after a year-and-a-bit using the hosted version of [Ghost](https://ghost.org/), a really nice Markdown blogging service.
 
 While I’m an advocate of paying for stuff that matters to you, I hadn’t actually written anything on my site for nearly seven months, after a serious splurge of very long posts around the referendum.
