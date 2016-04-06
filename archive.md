@@ -3,6 +3,8 @@ layout: page
 title: Archive
 ---
 
+This is my archive. Please to enjoy.
+
 ## Blog Posts
 
 {% for post in site.posts %}
