@@ -24,13 +24,9 @@ So it was with great relief that I saw this fantastic article that summed up my 
 Okay, read it? Good. It’s a great article, whose central thesis is that the legacy of empire has made the United Kingdom a deeply strange, unhealthy country with imperial preoccupations and a deep-seated need to ‘punch above its weight’, but that most Northern European countries are nothing like that. Here’s a great, lengthy quote that sums it up:
 
 >There is a trope I hear a lot at the moment: “Scotland is different”. Left to lie, on its own, with no explanation, it’s a sort of petty nationalism. The idea that any one group of people is intrinsically unlike any other strikes me as a perverse way to understand humanity.
-
 > The context, usually, is political. Scotland has free education “because it’s different”. Scotland hasn’t privatised its NHS, “because it’s different”. It’s utter bunkum. The truth is that Scotland is, basically, a very normal Northern European country.
-
 > Across Northern Europe, university education is either free (in Germany and the Nordic countries) or costs only a few hundred Euros (in the Netherlands and France, for example). Most of Europe has much lower levels of income inequality than the UK. Apart from the Benelux countries and Cyprus, all of Europe’s countries use more renewable energy than the UK, despite Britain having more potential than almost any of them.
-
 > In most of Europe, in fact, in most of the world, the idea that significant portions of your economy would be publicly owned is quite standard. In Northern Europe, it’s not abnormal to have decent childcare provision, to work a sensible number of hours a day, and to be more productive in total as a result.
-
 > No, when people say that Scotland is different, that the social democratic aspirations of Scots are an anomaly, they are missing the point entirely. The social attitudes of Scots, and the policies of the Scottish Parliament, are pretty much standard for a European country. Scotland isn’t the exception, it’s the rule.
 
 And that’s really it, isn’t it? We can make a positive choice to be something other than a province of a country that spends billions of pounds every year to pretend it still has an empire and global weight it has not had for the better part of a human lifetime. We can choose to become boringly and pleasantly Northern European. Sounds lovely to me.
@@ -43,7 +39,7 @@ Have you ever noticed a peculiar thing about Scots? We hold two versions of our 
 
 
 ## Reason 5: Because false dichotomies are ridiculous
- 
+
 We’re being sold an increasingly silly false narrative that, come independence, there would be a bunch of Scots out on the border with chisels, ready to 'break up these British isles’.
 
 Let’s get this straight.
