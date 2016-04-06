@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giving-up-the-ghost
+title: Giving up the ghost
 ---
 
 I’ve migrated my blog back to Tumblr, after a year-and-a-bit using the hosted version of [Ghost](https://ghost.org/), a really nice Markdown blogging service.
