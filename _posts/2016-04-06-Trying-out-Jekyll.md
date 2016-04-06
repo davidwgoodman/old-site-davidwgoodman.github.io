@@ -9,4 +9,6 @@ After a year or so of having all my old posts gathering dust over on Tumblr, I g
 
 I've quite enjoyed figuring it out.
 
-Will update this post before I actually switch my domain over. 
+Will update this post before I actually switch my domain over.
+
+Changed something.
