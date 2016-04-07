@@ -11,7 +11,7 @@ I've quite enjoyed figuring it out. I was helped immensely by this [very good tu
 
 There's something really nice about the simplicity of drafting posts in a text editor, dropping them in a folder and then getting them online with a couple of terminal commands. I spend a lot of my working time with dozens of Content Management System tabs open and I'm familiar with the foibles and peculiarities of many different ways of managing content online. So for my own website, it's been really refreshing to keep it *incredibly* simple. This doesn't even have a database.
 
-I'm going to gradually move over my old posts as I get used to the interface, tinker with themes and otherwise fart around with Jekyll, so apologies if there are any broken links. 
+I'm going to gradually move over my old posts as I get used to the interface, tinker with themes and otherwise fart around with Jekyll, so apologies if there are any broken links. I'll probably remove a lot of the junky random Youtube videos while I'm at it. 
 
 Part of this is an attempt to take more ownership over the things that I've written online, since keeping them on Tumblr is basically relying on Yahoo to keep your words online for you. I learned with the demise of Google Reader that a service you thought would stick around often doesn't.
 
