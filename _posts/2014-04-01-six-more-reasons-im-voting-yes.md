@@ -3,7 +3,7 @@ layout: post
 title: Six (more) reasons why I’m voting Yes
 ---
 
-Posting [my last blog post](/Five-reasons-im-voting-yes-in-september/) on the Yes campaign was interesting. I found that that it offered me the chance to overcome two things that I had been struggling with.
+Posting [my last blog post](/five-reasons-im-voting-yes-in-september/) on the Yes campaign was interesting. I found that that it offered me the chance to overcome two things that I had been struggling with.
 
 The first was the ability to talk at length about why I’m going to vote Yes, rather than the rather ineffectual and emotionally draining business of fighting on Facebook and Twitter about it in short bursts. Frankly, that offers little more than the opportunity to trade soundbites. There’s nothing substantive to it and you end up feeling defensive and angry with people who are supposed to be your friends. This is a shitty way of interacting.
 
