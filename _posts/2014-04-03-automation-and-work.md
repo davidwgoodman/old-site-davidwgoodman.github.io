@@ -1,0 +1,20 @@
+---
+layout: post
+title: Automation and work
+---
+
+One of my favourite SF authors, Charlie Stross, has [very successfully articulated](http://www.antipope.org/charlie/blog-static/2014/04/a-nation-of-slaves.html) a key challenge we face, not just in the UK, but as a species - in a world of automation and continuous shifting and optimisation to lower cost locations, where is the bottom, and what do we do with the millions (and possibly billions in relatively short order) of people for whom there are no jobs?
+
+Charlie foresees a drive for ‘full employment’ which is in effect the conversion of the lower reaches of the economy into a labour camp, driven by a complete inability to understand that there may be alternatives to [’you don’t work, you don’t eat’](https://www.biblegateway.com/passage/?search=2%20Thessalonians%203&version=MSG).
+
+It’s a bleak prognosis, but I have a horrible feeling he’s right. Understanding how to manage the effects of our own technological progress is so central to our survival and prosperity that I’m baffled it is not a more central part of the discourse. That said, we’re only fifty years or so into a world where automation is a major factor, compared to millenia where refusal or inability to work was often a death sentence. Our societal sense of morality (of course everyone must work! The devil makes work for idle hands!) comes from that world and old attitudes die hard.
+
+But the world has changed. We can [work less](http://www.zpub.com/notes/idle.html), we can [pay more](https://enough.wikipedia.org/wiki/Guaranteed_minimum_income) and we can look after the least of us without our societies falling apart. We are just choosing to not even frame the debate, such as it is, in those terms. Many states won’t even deign to experiment with different approaches to welfare and labour markets, despite [clear evidence that they work](http://basicincome.org.uk/2013/08/health-forget-mincome-poverty/).
+
+I suspect the ‘bottom’ will occur somewhere in the next fifty years. I think will happen in one of three ways:
+
+- **Diminishing returns on outsourcing and increased automation** - Eventually, there will be nowhere cheaper to outsource labour to. We’ll have moved factories and jobs to every increasingly more desperate country in the world until we’re moving pop-up factory buildings into places where the artillery stopped landing the previous week. Combine that with the rate of change in automation and at some point we will have to face the fact that there are simply not enough jobs in our economy as currently configured for all the people on the planet. Not even close. Whether we face that with sense or by sticking our fingers in our ears remains to be seen.
+- **Societal collapse** - least favourite option - we refuse to deal with this issue to the point where it becomes moot due to war, violent uprising, world-ending plague or something worse I can’t even think up. I suppose there might be some jobs rebuilding afterward.
+- **An Outside Context Problem** - Pace Ian M Banks, [something we can’t predict at all](http://wherethefallingangelmeetstherisingape.blogspot.co.uk/2011/07/out-of-context-problem.html) fundamentally alters our economy. Perhaps it’s asteroid mining, or massive climate change damage that gives a lot of people sandbags to fill, or a solar flare, or the invention of usable fusion reactors. Either way, it will absolutely be [interesting times](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times).
+
+Interestingly, this is one of the strongest reasons I’m [in favour](/five-reasons-im-voting-yes-in-september/) of [Scottish independence](/six-more-reasons-im-voting-yes/). I think the approach that an independent Scotland might take would be far more adaptive and resilient to this central issue than the political dogma that the broader UK is shackled to. If there’s anything that will blind you to the dangers of hollowing out your economy and exalting work above all it’s the failure of empire and the consequent response of Thatcherism and neoliberal economics. If we continue down that road, we’ll optimise ourselves into a global grave.
