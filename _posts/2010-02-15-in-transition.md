@@ -3,7 +3,7 @@ layout: post
 title: In Transition
 ---
 
-![London to Edinburgh](/images/postimages/transition.jpg)
+[<img src="{{ site.baseurl }}/images/postimages/transition.jpg" alt="London to Edinburgh" style="width: 770px;"/>]({{ site.baseurl }}/)
 
 So in the whirl of getting ready for our big move to Scotland and the excitement of finding a new flat (omg, it’s huge), we somehow didn’t notice until the other day that we really only have one weekend left in London. Nearly six years for me and three for Valerie will be over pretty soon. All of a sudden things we’ve been meaning to do for years have become things we’ll probably do on a future trip to London, rather than when we actually live here. We haven’t left yet, but the days are literally numbered.
 
