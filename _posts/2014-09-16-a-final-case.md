@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A final case
+---
 
 We’re down to the wire now. By the time I publish this, there will be less than 30 hours until the referendum. I await the result now with a sense of impending relief. The rhetoric has really ramped up over the last couple of weeks after an apparent reversal of the polls last week, which sent the Westminster parties into a last minute scurrying panic (or doughty Defence of the Union, depending on your perspective).
 
