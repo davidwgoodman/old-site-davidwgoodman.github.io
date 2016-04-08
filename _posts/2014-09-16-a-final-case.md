@@ -13,7 +13,7 @@ But anyway. We’re nearly there. I’ve [given a bunch of reasons](/five-reason
 
 But I thought I’d have one last go, to try and distil the case for Yes as well as I can. Sorry, this is another long one.
 
-## A Yes vote is an objective, but also a starting point
+### A Yes vote is an objective, but also a starting point
 
 There’s been a [link going around the last couple of days from a chap called Ewan Morrison](http://wakeupscotland.wordpress.com/2014/09/15/ewan-morrison-yes-why-i-joined-yes-and-why-i-changed-to-no/), in which he talks about the apparent zealotry and intolerance of dissent that he encountered when joining the Yes campaign, which finally prompted him to join the No side. He sees parallels with the Trotskyist movements of the Eighties, where there was no politics allowed, because the focus was always on ‘achieving revolution’.
 
@@ -27,7 +27,7 @@ That’s the problem with exploding grassroots campaigns - they’re leaderless 
 
 Scotland will not be ruled by the Yes campaign or any of its component parts after a victory. We’ll have built our own chamber, and be free to take sides in it. _That’s the entire point._
 
-## This is not an election and I’m not voting for a social welfare policy 
+### This is not an election and I’m not voting for a social welfare policy 
 
 Another, and frankly wounding, criticism I’ve had personally is that I’m a nice, well meaning lefty, but that I’m voting for a pipe dream because I believe it’ll help the poor wee folk in the housing schemes, while it’s beyond my capacity as a speccy middle class twat to understand what I’m actually doing is hurting them and deepening their dependency.
 
@@ -51,7 +51,7 @@ My favoured system is one called a 'Mincome’ or a Citizen’s Income, [as advo
 
 But I’m not voting for Mincome. I’m voting for the _venue where a discussion of it will become possible_.
 
-## Believing in change within the Union 
+### Believing in change within the Union 
 
 As I write this, another effort by the three main party leaders is in the process of disintegrating. The so-called 'Vow’ that filled the front page of the Daily Record was a promise to both devolve unspecified 'further powers’ that stop short of the devo max that’s not on the ballot **and** maintain the Barnett formula on spending. But even before the vote, [it’s already being picked apart by backbench Tories](http://www.newstatesman.com/politics/2014/09/leaders-vow-power-scotland-already-unravelling).
 
@@ -75,7 +75,7 @@ Post from
 
 [I’m Yes Because](https://www.facebook.com/IAmYesBecause/photos/a.818653394846733.1073741828.818645358180870/834254283286644/?type=1&amp;theater)
 
-## Politics can be for all of us 
+### Politics can be for all of us 
 
 This is the first time in my life I’ve ever done anything real, politically. It’s been deeply exciting and inspiring to see politics move back into the public sphere, where it should be.
 
@@ -89,7 +89,7 @@ One of my greatest fears is that the significant numbers of people who have been
 
 If it’s a No, I really believe we’ll be back here again in ten years, only we’ll be poorer, angrier and we’ll all have a lost a decade (or maybe longer) in which we could have been governing ourselves and building a society that matched our priorities, instead of those of a post-imperial unitary state that is [slowly hollowing itself out with free market absolutism](http://www.theguardian.com/politics/2014/aug/22/sale-of-century-privatisation-scam).
 
-## We’ll be okay
+### We’ll be okay
 
 I want to close with a reassuring note. I’ve seen a few friends and relatives, mostly on the No side, as well as a bunch of internet comments and editorials, that have predicted a divided society in Scotland’s future, especially in the result of a close No vote.
 
