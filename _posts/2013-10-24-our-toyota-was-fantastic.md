@@ -3,7 +3,7 @@ layout: post
 title: Our Toyota Was Fantastic
 ---
 
-I’ve been following French cartoonist Boulet for a while. He’s been doing some amazing work, but this recent piece really struck a chord with me.
+I’ve been following the amazing French cartoonist Boulet for a while. He’s been doing some amazing work, but this recent piece really struck a chord with me.
 
 ![image](/images/postimages/toyota.png)
 
