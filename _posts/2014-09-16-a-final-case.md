@@ -34,15 +34,14 @@ Another, and frankly wounding, criticism I’ve had personally is that I’m a n
 Firstly, I believe very strongly that the current punitive approach to welfare provision in the United Kingdom is at least partially the cause of our current state of affairs. We treat benefit recipients like schoolchildren to be scolded, then we sanction them and leave food banks to fill the gap.
 
 Warning - this is a deeply upsetting video, but I urge you to watch it.
-<iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/vdRFEvWEiL4?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0"></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vdRFEvWEiL4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 That people are going days without food in a modern democracy is a disgrace that offends me to my core.
 
 I saw a comment on Twitter recently that crystallised this for me. It was this:
 
-> Some phrases endure as markers of our degradation. 'A pile of CVs was found next to his body' is one of them. [http://t.co/V82KIMG3ll](http://t.co/V82KIMG3ll)
-> <div>— J (@piercepenniless) </div>[September 10, 2014](https://twitter.com/piercepenniless/status/509618881460449280)
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Some phrases endure as markers of our degradation. &#39;A pile of CVs was found next to his body&#39; is one of them. <a href="http://t.co/V82KIMG3ll">http://t.co/V82KIMG3ll</a></p>&mdash; J (@piercepenniless) <a href="https://twitter.com/piercepenniless/status/509618881460449280">September 10, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is sickening. The poor are not, actually, 'the poor’. They are not a seething mass, somehow less capable or less worthy of life. They are people. They make the choices available to them, and sometimes they make shit choices, like taking a drink, or an illegal drug. But those choices, while they might sometimes exacerbate a situation of poverty and desperation, are not the cause of that poverty. They are a symptom of the need to escape. The well-to-do snort cocaine from club toilets (or neck Sauvignon Blanc at dinner parties) to escape their boredom and their crushing working hours. If you think that someone with less money than you deserves no escape, needs to be managed like cattle, can’t make decisions for themselves, you’re a hypocrite.
 
