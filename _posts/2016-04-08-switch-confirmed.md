@@ -2,7 +2,7 @@
 layout: post
 title: Switch confirmed
 ---
-
+![Light switch image, courtesy of Wikipedia - https://en.wikipedia.org/wiki/Light_switch#/media/File:Illuminated_light_switch.jpg](/images/postimages/Switch.png)
 And here we are - I've made the switch over to [Jekyll](https://jekyllrb.com/) as the way that I'll be updating my personal site. 
 
 I also took the opportunity to wipe all my longer and more substantial blog posts off Tumblr so now it's just [a graveyard of links and Youtube videos](http://davidgoodman.tumblr.com/), as it should be.
