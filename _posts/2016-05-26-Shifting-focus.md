@@ -23,7 +23,7 @@ Sometimes things you want to do feel good *because* they're the right thing to d
 
 So, I've reactivated my [Mountain Training account](http://www.mountain-training.org/) which I registered in a previous burst of enthusiasm for the hills a full decade ago(!) and I'm now logging my way towards the [Mountain Leader award](http://www.mountain-training.org/walking/skills-and-awards/mountain-leader), one weekend hillwalk at a time. This rather good wee video from Mountain Training explains the qualification quite nicely.
 
-<div><iframe width="720" height="405" src="https://www.youtube.com/embed/8lM2k4dMu8U?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="720" height="405" src="https://www.youtube.com/embed/8lM2k4dMu8U?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 So, this site will more than likely feature a lot more of the things I want to write about now. That will mean the odd gear review (I'm a bit of a gearhead, frankly), walk reports, updates on my progress through the ML process and hopefully the odd bit of writing about the outdoors on a more metaphysical and meaningful level. 
