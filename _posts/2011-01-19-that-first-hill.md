@@ -2,9 +2,8 @@
 layout: post
 title: That first hill
 ---
-This past Sunday, I went hillwalking for the first time in, really, about six years.
-
 ![Pentland Hills](/images/postimages/pentlands.jpg)
+This past Sunday, I went hillwalking for the first time in, really, about six years.
 
 I’d done a few low-level walks with the sterling people at [Metropolitan Walkers](http://www.metropolitan-walkers.org.uk/), but quite honestly the large group sizes, distinct lack of hills as I understand them and travel faff getting around and out of London made it something I stopped doing pretty quickly.
 
