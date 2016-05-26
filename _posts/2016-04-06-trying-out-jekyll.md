@@ -3,9 +3,9 @@ layout: post
 title: Trying out Jekyll
 ---
 ![Github Experiments](/images/postimages/Github.png)
-I'm switching my website over to a static site generator called [Jekyll](https://jekyllrb.com/).
+I'm switching my website over to a static site generator called [Jekyll](https://jekyllrb.com/). After a year or so of having all my old posts gathering dust over on Tumblr, I got curious about static site generators again. 
 
-After a year or so of having all my old posts gathering dust over on Tumblr, I got curious about static site generators again, based largely on [this post](http://www.practicallyefficient.com/2016/04/03/static-and-free.html) about the benefits of having a completely static, non-database website.
+This was based largely on [this post](http://www.practicallyefficient.com/2016/04/03/static-and-free.html) about the benefits of having a completely static, non-database website.
 
 I've quite enjoyed figuring it out. I was helped immensely by this [very good tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) using a [preconfigured Jekyll repository](https://github.com/barryclark/jekyll-now) - that got me up and running in a few minutes, compared to the headscratching few hours I spent trying to get Jekyll running on my ancient Macbook last time I decided to tinker with this.
 
