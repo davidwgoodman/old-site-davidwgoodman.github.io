@@ -2,10 +2,9 @@
 layout: post
 title: Our Toyota Was Fantastic
 ---
+![image](/images/postimages/toyota.png)
 
 I’ve been following the amazing French cartoonist Boulet for a while. He’s been doing some amazing work, but this recent piece really struck a chord with me.
-
-![image](/images/postimages/toyota.png)
 
 [Our Toyota Was Fantastic](http://english.bouletcorp.com/2013/10/08/our-toyota-was-fantastic/)
 
