@@ -2,7 +2,7 @@
 layout: post
 title: Trying out Jekyll
 ---
-
+![Github Experiments](/images/postimages/Github.png)
 I'm switching my website over to a static site generator called [Jekyll](https://jekyllrb.com/).
 
 After a year or so of having all my old posts gathering dust over on Tumblr, I got curious about static site generators again, based largely on [this post](http://www.practicallyefficient.com/2016/04/03/static-and-free.html) about the benefits of having a completely static, non-database website.
