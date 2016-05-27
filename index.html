@@ -17,14 +17,13 @@ layout: default
     </article>
 
 {% endfor %}
-
-<!-- Pagination links -->
 </br>
+<!-- Pagination links -->
+
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
-    <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
