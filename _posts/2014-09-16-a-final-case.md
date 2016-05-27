@@ -34,7 +34,7 @@ Another, and frankly wounding, criticism I’ve had personally is that I’m a n
 Firstly, I believe very strongly that the current punitive approach to welfare provision in the United Kingdom is at least partially the cause of our current state of affairs. We treat benefit recipients like schoolchildren to be scolded, then we sanction them and leave food banks to fill the gap.
 
 Warning - this is a deeply upsetting video, but I urge you to watch it.
-<iframe width="720" height="405" src="https://www.youtube.com/embed/vdRFEvWEiL4?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="720" height="405" src="https://www.youtube.com/embed/vdRFEvWEiL4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 That people are going days without food in a modern democracy is a disgrace that offends me to my core.
 
@@ -79,7 +79,7 @@ Post from
 
 This is the first time in my life I’ve ever done anything real, politically. It’s been deeply exciting and inspiring to see politics move back into the public sphere, where it should be.
 
-<iframe src="//instagram.com/p/sm4DJFCkqr/embed/" width="612" height="710" frameborder="0" scrolling="no"></iframe>
+<div class="video-container"><iframe src="//instagram.com/p/sm4DJFCkqr/embed/" width="612" height="710" frameborder="0" scrolling="no"></iframe></div>
 
 For far too long, our collective malaise has left us with the idea that there’s only two kinds of people who get involved with politics. Slick, professional politicians in carefully managed press conferences, and the loons with the placards outside who should just get a job, or, like, whatever.
 
@@ -96,7 +96,7 @@ I want to close with a reassuring note. I’ve seen a few friends and relatives,
 I posted this on Instagram the other night, and I fundamentally believe that it’s true.
 
 _Dinnae worry. Whatever happens, we’ll be fine. This is a good place with good people_
-<iframe src="//instagram.com/p/s2nODVikpe/embed/" width="612" height="710" frameborder="0" scrolling="no"></iframe>
+<div class="video-container"><iframe src="//instagram.com/p/s2nODVikpe/embed/" width="612" height="710" frameborder="0" scrolling="no"></iframe></div>
 
 Also, this weekend, between leafleting and grabbing a bit of lunch, I found myself wandering around the beautiful modern sandstone environs of the National Museum of Scotland.
 

@@ -39,7 +39,7 @@ And that’s really it, isn’t it? We can make a positive choice to be somethin
 
 Have you ever noticed a peculiar thing about Scots? We hold two versions of our self image in our heads at once. We’re fiercely proud of our country and its status as the home of many of the innovations that make the modern world what it is. But many of us think huge numbers of our fellow citizens are wasters, or scumbags, or corrupt, venal and untrustworthy. Somehow we manage to both love and hate ourselves in equal measure. I think Alan Bissett does a brilliant job of capturing this internal contradiction in his Independence Poem. Here’s a video:
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/uLy__S8S-x4" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="720" height="405" src="https://www.youtube.com/embed/uLy__S8S-x4" frameborder="0" allowfullscreen></iframe></div>
 
 
 ### Reason 5: Because false dichotomies are ridiculous
