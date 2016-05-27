@@ -237,6 +237,17 @@ nav {
   }
 }
 
+.pagination {
+  margin: -5px 0 0 0;
+  color: $gray;
+  font-size: 16px;
+  padding-top: 5em;
+
+  @include mobile {
+    margin: 3px 0;
+  }
+}
+
 //
 // .main
 //
